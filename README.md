@@ -1,0 +1,2 @@
+# johannes
+Mining pool
